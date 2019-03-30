@@ -1,5 +1,0 @@
-C:\Users\DhaReaL\Documents\Visual Studio 2015\Projects\DRLFramework\DRLFramework\bin\Debug\DRLFramework.dll
-C:\Users\DhaReaL\Documents\Visual Studio 2015\Projects\DRLFramework\DRLFramework\bin\Debug\DRLFramework.pdb
-C:\Users\DhaReaL\Documents\Visual Studio 2015\Projects\DRLFramework\DRLFramework\obj\Debug\DRLFramework.dll
-C:\Users\DhaReaL\Documents\Visual Studio 2015\Projects\DRLFramework\DRLFramework\obj\Debug\DRLFramework.pdb
-C:\Users\DhaReaL\Documents\Visual Studio 2015\Projects\DRLFramework\DRLFramework\obj\Debug\DRLFramework.csprojResolveAssemblyReference.cache
