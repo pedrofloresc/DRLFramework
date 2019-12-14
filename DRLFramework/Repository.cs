@@ -36,8 +36,6 @@ namespace DRLFramework
                             {
                                 obj = reader.GetValue(i);
                             }
-                            //Console.WriteLine("{0} {1}",
-                            //    reader.GetInt32(0), reader.GetString(1));
                         }
                     }
                 }
